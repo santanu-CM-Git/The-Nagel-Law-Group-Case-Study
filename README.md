@@ -59,10 +59,8 @@ The existing website lacked strong technical SEO foundations, limiting search vi
 * HTML5
 * CSS3
 * JavaScript
-* WordPress
-* Elementor
 * Responsive Design
-* SEO Optimization
+* Google AdSense
 
 ---
 
@@ -114,20 +112,6 @@ A refined visual identity was created to reflect professionalism, trust, and emp
 
 ---
 
-## Advanced CMS Development
-
-A scalable WordPress-based CMS was developed to enable efficient content management without technical dependencies.
-
-### CMS Features
-
-* Dynamic page management
-* Blog functionality
-* SEO-friendly architecture
-* Reusable content sections
-* Optimized media handling
-* Performance enhancements
-
----
 
 ## Responsive Experience Design
 
@@ -152,7 +136,6 @@ Technical SEO improvements were implemented to improve visibility, usability, an
 * Metadata optimization
 * Image compression
 * Performance tuning
-* Local SEO enhancements
 * Schema implementation
 
 ---
